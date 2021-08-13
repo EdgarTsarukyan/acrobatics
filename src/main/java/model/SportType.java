@@ -1,0 +1,7 @@
+package model;
+
+public enum SportType {
+
+    ACROBATICS, BOYS_GYMNASTICS, GIRL_GYMNASTICS, JUMPERS, ART_GYMNASTICS
+
+}
